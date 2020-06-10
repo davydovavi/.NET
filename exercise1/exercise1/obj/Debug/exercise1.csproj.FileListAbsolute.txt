@@ -1,0 +1,14 @@
+C:\Users\Виктория\source\repos\exercise1\exercise1\bin\Debug\exercise1.exe.config
+C:\Users\Виктория\source\repos\exercise1\exercise1\bin\Debug\exercise1.exe
+C:\Users\Виктория\source\repos\exercise1\exercise1\bin\Debug\exercise1.pdb
+C:\Users\Виктория\source\repos\exercise1\exercise1\obj\Debug\exercise1.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\exercise1\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\exercise1\exercise1\obj\Debug\exercise1.exe
+C:\Users\Виктория\source\repos\exercise1\exercise1\obj\Debug\exercise1.pdb
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\bin\Debug\exercise1.exe.config
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\bin\Debug\exercise1.exe
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\bin\Debug\exercise1.pdb
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\obj\Debug\exercise1.csprojResolveAssemblyReference.cache
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\obj\Debug\exercise1.exe
+C:\Users\DavydovaVV\Desktop\exercise1\exercise1\obj\Debug\exercise1.pdb

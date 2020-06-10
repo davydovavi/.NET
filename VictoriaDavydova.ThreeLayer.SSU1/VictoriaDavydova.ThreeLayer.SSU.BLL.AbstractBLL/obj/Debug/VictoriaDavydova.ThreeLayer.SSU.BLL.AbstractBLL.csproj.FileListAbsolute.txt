@@ -1,0 +1,9 @@
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\bin\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.dll
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\bin\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.pdb
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\bin\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.dll
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\bin\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.pdb
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.csproj.CopyComplete
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.dll
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.BLL.AbstractBLL.pdb

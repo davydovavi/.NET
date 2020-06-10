@@ -1,0 +1,6 @@
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.Entities\bin\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.dll
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.Entities\bin\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.pdb
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.Entities\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.Entities\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.Entities\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.dll
+C:\Users\Виктория\source\repos\VictoriaDavydova.ThreeLayer.SSU1\VictoriaDavydova.ThreeLayer.SSU.Entities\obj\Debug\VictoriaDavydova.ThreeLayer.SSU.Entities.pdb
